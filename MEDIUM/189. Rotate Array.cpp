@@ -35,3 +35,7 @@ public:
         reverse(nums, 0, n - 1);
     }
 };
+/*
+TC=O(n)
+SC=O(1)
+*/
